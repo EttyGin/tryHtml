@@ -25,6 +25,15 @@ a:hover {
     margin-right: 25px;
     margin-top: 20px;
 }
+.aboutImg {
+    width: 400px;
+    height: 400px;
+    float: right;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 20px;
+}
 .conImg {
     width: 283px;
     height: 285 px;
@@ -55,7 +64,14 @@ a:hover {
     float: left;
     padding: -15px;
     border-radius: 5px;
-    font-size: 30px;
+    font-size: 40px;
+}
+#about {
+    border: 3px solid #4F4E4E;
+    width: 78%;
+    float: left;
+    border-radius: 5px;
+    font-size: 50px;
 }
 #manulinks {
     border: 2px solid rgb(189, 189, 189);
@@ -67,5 +83,4 @@ a:hover {
 .contact {
      margin-right:30px;
      width: 250px;
-     clear:  ;
 }
